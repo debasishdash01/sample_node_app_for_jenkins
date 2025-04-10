@@ -1,5 +1,5 @@
 {
-    "name": "hello-world-node",
+    "name": "sample_node_app_for_jenkins",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
@@ -10,6 +10,6 @@
         "express": "^4.18.2"
     },
     "devDependencies": {
-        "node-fetch": "^2.6.12" // For making HTTP requests in the test
+        "node-fetch": "^2.6.12"
     }
 }
